@@ -14,7 +14,8 @@
 	<?php do_action( 'oblique_footer_svg' ); ?>
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info container">
-			<?php do_action( 'oblique_footer' ); ?>
+			<!-- <?php do_action( 'oblique_footer' ); ?> -->
+			<p>Created by Ingrid Hawkins 2017</p>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
