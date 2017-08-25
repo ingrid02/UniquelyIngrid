@@ -1,4 +1,4 @@
-/* 
+/*
 Theme Name:		 Oblique Child Theme
 Theme URI:		 http://www.websitebundles.com/
 Description:	 Theme by Site <a href=\"http://childthemegenerator.com/\">http://childthemegenerator.com/</a>
@@ -7,7 +7,16 @@ Author URI:		 http://childthemegenerator.com/
 Template:		 oblique
 Version:		 1.0.0
 Text Domain:	 Oblique-child
--------------------------------------------------------------- */ 
+-------------------------------------------------------------- */
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
+
+
+.read-more  {
+  background-color: #a57ea7;
+}
+
+a  {
+  color: #a57ea7;
+}
